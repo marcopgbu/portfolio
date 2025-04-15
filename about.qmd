@@ -4,12 +4,6 @@ format: html
 page-layout: full
 ---
 
----
-title: "About Me"
-format: html
-page-layout: full
----
-
 # About Me
 
 Hi! I’m **Marco Perez**, a data science enthusiast with a passion for turning raw data into clear, actionable insights.
