@@ -1,8 +1,15 @@
 [
   {
-    "objectID": "hello.html",
-    "href": "hello.html",
-    "title": "Hello",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Hiiiii"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Resume",
     "section": "",
     "text": "Hiiiii"
   },
@@ -16,8 +23,15 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Hiiiii"
   }
 ]

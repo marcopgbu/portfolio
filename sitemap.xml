@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://marcopgbu.github.io/portfolio/hello.html</loc>
-    <lastmod>2025-04-15T06:27:54.982Z</lastmod>
+    <loc>https://marcopgbu.github.io/portfolio/projects.html</loc>
+    <lastmod>2025-04-15T18:41:33.386Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marcopgbu.github.io/portfolio/cv.html</loc>
+    <lastmod>2025-04-15T18:41:33.386Z</lastmod>
   </url>
   <url>
     <loc>https://marcopgbu.github.io/portfolio/index.html</loc>
-    <lastmod>2025-04-15T05:07:29.387Z</lastmod>
+    <lastmod>2025-04-15T18:41:33.386Z</lastmod>
   </url>
   <url>
     <loc>https://marcopgbu.github.io/portfolio/about.html</loc>
-    <lastmod>2025-04-15T05:04:39.275Z</lastmod>
+    <lastmod>2025-04-15T18:41:33.386Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marcopgbu.github.io/portfolio/contact.html</loc>
+    <lastmod>2025-04-15T18:41:33.386Z</lastmod>
   </url>
 </urlset>
