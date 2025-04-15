@@ -25,28 +25,28 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! I’m Marco Perez, a data science enthusiast with a passion for turning raw data into clear, actionable insights.\nI’m currently pursuing my Master’s in Applied Business Analytics at Boston University, where I’ve developed strong skills in Python, SQL, Power BI, and machine learning. I enjoy working on real-world projects that solve meaningful problems — whether it’s predicting housing prices, visualizing market trends, or building custom analytics dashboards.\nWhat drives me is the blend of technical depth and creativity that data science offers. I believe that great analytics isn’t just about algorithms — it’s about telling the right story.\n\n\n\n\nLanguages: Python, SQL, R\n\nLibraries/Tools: Pandas, scikit-learn, matplotlib, seaborn, NumPy, Power BI, Tableau\n\nTechniques: Regression, classification, clustering, forecasting, data visualization\n\nOther: Git, Jupyter, VS Code, Quarto, Excel\n\n\n\n\n\n\nWorking on building a sports analytics personal brand\nStrengthening my knowledge of SQL for data extraction and transformation\n\nLearning the fundamentals of cloud services like AWS and Google Cloud for scalable data solutions\n\n\n\n\n\nWhen I’m not coding, you’ll probably find me exploring new cities, watching football, or creating content to help others learn data science."
+    "text": "Hi! I’m Marco Perez, a data science enthusiast with a passion for turning raw data into clear, actionable insights.\nI’m currently pursuing my Master’s in Applied Business Analytics at Boston University, where I’ve developed strong skills in Python, SQL, Power BI, and machine learning. I enjoy working on real-world projects that solve meaningful problems — whether it’s predicting housing prices, visualizing market trends, or building custom analytics dashboards.\nWhat drives me is the blend of technical depth and creativity that data science offers. I believe that great analytics isn’t just about algorithms — it’s about telling the right story."
   },
   {
     "objectID": "about.html#skills",
     "href": "about.html#skills",
     "title": "About Me",
-    "section": "",
-    "text": "Languages: Python, SQL, R\n\nLibraries/Tools: Pandas, scikit-learn, matplotlib, seaborn, NumPy, Power BI, Tableau\n\nTechniques: Regression, classification, clustering, forecasting, data visualization\n\nOther: Git, Jupyter, VS Code, Quarto, Excel"
+    "section": "Skills",
+    "text": "Skills\n\nLanguages: Python, SQL, R\n\nLibraries/Tools: Pandas, scikit-learn, matplotlib, seaborn, NumPy, Power BI, Tableau\n\nTechniques: Regression, classification, clustering, forecasting, data visualization\n\nOther: Git, Jupyter, VS Code, Quarto, Excel"
   },
   {
     "objectID": "about.html#currently-learning",
     "href": "about.html#currently-learning",
     "title": "About Me",
-    "section": "",
-    "text": "Working on building a sports analytics personal brand\nStrengthening my knowledge of SQL for data extraction and transformation\n\nLearning the fundamentals of cloud services like AWS and Google Cloud for scalable data solutions"
+    "section": "Currently Learning",
+    "text": "Currently Learning\n\nWorking on building a sports analytics personal brand\nStrengthening my knowledge of SQL for data extraction and transformation\n\nLearning the fundamentals of cloud services like AWS and Google Cloud for scalable data solutions"
   },
   {
     "objectID": "about.html#outside-of-work",
     "href": "about.html#outside-of-work",
     "title": "About Me",
-    "section": "",
-    "text": "When I’m not coding, you’ll probably find me exploring new cities, watching football, or creating content to help others learn data science."
+    "section": "Outside of Work",
+    "text": "Outside of Work\nWhen I’m not coding, you’ll probably find me exploring new cities, watching football, or creating content to help others learn data science."
   },
   {
     "objectID": "contact.html",
