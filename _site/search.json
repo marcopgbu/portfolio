@@ -12,5 +12,12 @@
     "title": "My Portfolio",
     "section": "",
     "text": "Hello Everyone"
+  },
+  {
+    "objectID": "hello.html",
+    "href": "hello.html",
+    "title": "Hello",
+    "section": "",
+    "text": "Hiiiii"
   }
 ]
