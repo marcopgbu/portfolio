@@ -2,24 +2,26 @@ project:
   type: website
 
 website:
-  title: "Marco Perez"
+  title: "portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: About Me
       - href: projects.qmd
-        text: Projects
+        text: My Projects
+      - href: cv.qmd
+        text: Resume
       - href: contact.qmd
-        text: Contact
+        text: Contact Me
+
 
 format:
   html:
     theme: flatly
     css: styles.css
     toc: false
-
 
 
 
