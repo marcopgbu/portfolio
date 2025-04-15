@@ -1,5 +1,44 @@
 ---
 title: "About Me"
+format: html
+page-layout: full
 ---
 
-About this site
+---
+title: "About Me"
+format: html
+page-layout: full
+---
+
+# About Me
+
+Hi! I’m **Marco Perez**, a data science enthusiast with a passion for turning raw data into clear, actionable insights.
+
+I’m currently pursuing my Master’s in Applied Business Analytics at Boston University, where I’ve developed strong skills in Python, SQL, Power BI, and machine learning. I enjoy working on real-world projects that solve meaningful problems — whether it’s predicting housing prices, visualizing market trends, or building custom analytics dashboards.
+
+What drives me is the blend of technical depth and creativity that data science offers. I believe that great analytics isn't just about algorithms — it’s about telling the right story.
+
+---
+
+## Skills
+
+- **Languages:** Python, SQL, R  
+- **Libraries/Tools:** Pandas, scikit-learn, matplotlib, seaborn, NumPy, Power BI, Tableau  
+- **Techniques:** Regression, classification, clustering, forecasting, data visualization  
+- **Other:** Git, Jupyter, VS Code, Quarto, Excel
+
+---
+
+## Currently Learning
+
+- Working on building a sports analytics personal brand
+- Strengthening my knowledge of SQL for data extraction and transformation  
+- Learning the fundamentals of cloud services like AWS and Google Cloud for scalable data solutions
+
+---
+
+## Outside of Work
+
+When I’m not coding, you’ll probably find me exploring new cities, watching football, or creating content to help others learn data science.
+
+
