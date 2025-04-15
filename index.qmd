@@ -1,7 +1,11 @@
 ---
-title: "portfolio"
+title: "My Portfolio"
+author: "Marco Perez"
+date: "2025-01-24"
+format:
+  html:
+    theme: journal
+    toc: true
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- Hello Everyone
