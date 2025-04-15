@@ -1,7 +1,6 @@
 ---
 title: "My Portfolio"
 author: "Marco Perez"
-date: "2025-01-24"
 format:
   html:
     theme: journal
